@@ -1,32 +1,54 @@
-On branch main
-Your branch is ahead of 'origin/main' by 9 commits.
-  (use "git push" to publish your local commits)
 
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   log.txt
+commit e5ec62f9abd6dda6e9af39d95da8d161f630f89a
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Sun Nov 30 14:33:14 2025 +0100
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	.ipynb_checkpoints/
-	.python-version
-	Enunciado.pdf
-	Enunciado_pruba.pdf
-	Enunciat.pdf
-	GALIBOS TUNELES MADRID.csv
-	Git & Github.ipynb
-	OIP.jpg
-	Pandas.ipynb
-	Prova1.ipynb
-	"Pr\303\241ctica1.ipynb"
-	README.md
-	Speculation_Watch_List_20251104.csv
-	WHO.csv
-	datos_1.csv
-	datos_2.csv
-	main.py
-	presupuesto_gastos_2023.csv
-	pyproject.toml
+    Act6. Practica terminada
 
-no changes added to commit (use "git add" and/or "git commit -a")
+commit 4a47970d7067452cbe1e887ef14f82b7e0e16b74
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Sun Nov 30 14:10:14 2025 +0100
+
+    Act5
+
+commit 58fcdb9d4c9a483df515b5992a074f927c45ed3a
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Sun Nov 30 13:43:15 2025 +0100
+
+    Act4
+
+commit 9c605aed5cf3cdb2ceb5e4f19398a5e79c72bb99
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Sun Nov 30 13:22:13 2025 +0100
+
+    Act3. creación de .py y aplicación realizado
+
+commit 00107e8f082e5ab3723c5c26c90389080d273a5f
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Sun Nov 30 12:52:41 2025 +0100
+
+    Act3. He cambiado el apartado e). No me habia fijado que eran los 7 mayores
+
+commit 3e1359679edc74f7ece95d605c857b187e268a8c
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Sun Nov 30 12:35:55 2025 +0100
+
+    Act2
+
+commit c656378e0c8d118c2fc685f3817ce2a9f2579e62
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Sun Nov 30 12:20:01 2025 +0100
+
+    Act1
+
+commit c8fde700c6230573a2458c23246acefd11b7dbaa
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Sun Nov 30 12:03:41 2025 +0100
+
+    Practica_II
+
+commit cd3996ccfbbb5db07b3a88a036f77ab4a2175b67
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Thu Nov 6 16:50:37 2025 +0100
+
+    Hola

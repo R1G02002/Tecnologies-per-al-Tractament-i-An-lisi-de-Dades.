@@ -1,0 +1,156 @@
+commit ffb74c95bcddbcc16c3373d9da8a46cc9ca54884
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Sun Nov 30 16:09:09 2025 +0100
+
+    Practica_II
+
+commit c982bce53e1ca08f097c9258a8c8c47abe1f438f
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 23:38:34 2025 +0100
+
+    act1
+
+commit e5ec62f9abd6dda6e9af39d95da8d161f630f89a
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 23:26:14 2025 +0100
+
+    ACT1 END
+
+commit 4a47970d7067452cbe1e887ef14f82b7e0e16b74
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 23:26:14 2025 +0100
+
+    ACT1 START
+
+commit 58fcdb9d4c9a483df515b5992a074f927c45ed3a
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 23:23:15 2025 +0100
+
+    act5
+
+commit 9c605aed5cf3cdb2ceb5e4f19398a5e79c72bb99
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 23:22:13 2025 +0100
+
+    act4
+
+commit 00107e8f082e5ab3723c5c26c90389080d273a5f
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 23:21:41 2025 +0100
+
+    act3
+
+commit 3e1359679edc74f7ece95d605c857b187e268a8c
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 23:20:55 2025 +0100
+
+    act2
+
+commit c656378e0c8d118c2fc685f3817ce2a9f2579e62
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 23:20:01 2025 +0100
+
+    act1
+
+commit c8fde700c6230573a2458c23246acefd11b7dbaa
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 23:03:41 2025 +0100
+
+    actX: lo que hiciste
+
+commit f906c7f0f6a4a9f85e7b0d500b19bea12fa35727
+Merge: 1ea7ebf fd1d2a7
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 23:02:11 2025 +0100
+
+    actX: lo que hiciste
+
+commit 1ea7ebf060fd36abbcc5ddfeef69e93a2b699173
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 22:58:44 2025 +0100
+
+    actX: lo que hiciste
+
+commit a5ae6c70159f45b31ffdb8cba48eb85ce0317f34
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 22:50:55 2025 +0100
+
+    log final
+
+commit 393b4ff764aeb13059e4c156274fb6536c763b64
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 22:50:54 2025 +0100
+
+    log final
+
+commit 13b9270732aca08609a0c4cbba922d7682d8c7a8
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 22:50:53 2025 +0100
+
+    log final
+
+commit e44dc37ba6dd6d1a053d69f41a73e70aae11a478
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 22:50:52 2025 +0100
+
+    actX: lo que hiciste
+
+commit fd1d2a7898dfb90659f220a0cc2501c55b6c112a
+Author: R1G02002 <135434735+R1G02002@users.noreply.github.com>
+Date:   Mon Nov 17 22:34:05 2025 +0100
+
+    Delete Untitled.ipynb
+
+commit 1268310c51e874aa008c7f2bdd34c6295e902fd4
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 22:31:23 2025 +0100
+
+    entrega: añade log.txt
+
+commit 921eba36a8cf32d246ddb7da8ecedd51c798d9dc
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 22:30:20 2025 +0100
+
+    act3: descripción breve
+
+commit ecc6dbe0e350342ab167279a0b27bdf45d0a312f
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 22:23:37 2025 +0100
+
+    act6
+
+commit 85af149363ecf9e76608389b76ec2e85f3b7d2ab
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 22:18:27 2025 +0100
+
+    act2
+
+commit b5cf00bdae82f9430137e5e4920d258140a2fcbd
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 22:12:45 2025 +0100
+
+    act1
+
+commit c2393808ee5e8b6cd973ee15fee72e2bc9bf5a1f
+Author: R1G02002 <135434735+R1G02002@users.noreply.github.com>
+Date:   Mon Nov 17 21:59:58 2025 +0100
+
+    Delete Numpy.ipynb
+
+commit 1de51aaf86716fd13f0d48233139542fced88ead
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 21:55:17 2025 +0100
+
+    act 1
+
+commit b7040be3a40f1c182d39cd4669cf456f2545f89b
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Mon Nov 17 21:45:15 2025 +0100
+
+    Probando para examen
+
+commit cd3996ccfbbb5db07b3a88a036f77ab4a2175b67
+Author: Antoni Rigo Balaguer <tonrigba@gmail.com>
+Date:   Thu Nov 6 16:50:37 2025 +0100
+
+    Hola
